@@ -7,16 +7,11 @@ Your AI-Powered Travel Companion. This full-stack web application helps users di
 ### 🌄 Preview
 
 *(Screenshot of the Site)*
-![Travel App Screenshot](./path/to/screenshot.png)
+<img width="1329" height="902" alt="image" src="https://github.com/user-attachments/assets/03038e73-af1a-4beb-bc3f-45166c20fbce" />
+<img width="1304" height="902" alt="image" src="https://github.com/user-attachments/assets/640897da-3d12-4e25-bd7e-5c2807368743" />
+<img width="1315" height="846" alt="image" src="https://github.com/user-attachments/assets/7e7f420b-6630-4275-bfbe-ab8dd8330728" />
 
 ---
-
-/*### 🚀 Demo
-
-1. 🌐 [Frontend Live](#)
-2. ⚙️ [Backend Live](#)
-
----*/
 
 ### ✨ Features
 
@@ -79,8 +74,8 @@ Travel-App/
 
 ### 👩‍💻 Author
 
-* 💼 [Tanisha Chauhan](#)
-* 🔗 [LinkedIn Profile](#)
+* 💼 https://github.com/tanisha222
+* 🔗 https://www.linkedin.com/in/tanisha-chauhan-9227671b0/
 
 
 
