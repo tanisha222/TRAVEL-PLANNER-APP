@@ -23,8 +23,6 @@ Your AI-Powered Travel Companion. This full-stack web application helps users di
 * 📱 Responsive UI with TailwindCSS and elegant cards
 
 ---
-OpenWeatherMap API
-* Gemini 1.5 Flash (Google Generative Language API)
 ### 🛠️ Technologies Used
 
 | Frontend     | Backend           | API Integration                                  |
