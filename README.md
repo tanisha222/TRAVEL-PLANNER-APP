@@ -8,7 +8,7 @@ Your AI-Powered Travel Companion. This full-stack web application helps users di
 
 *(Screenshot of the Site)*
 <img width="1329" height="902" alt="image" src="https://github.com/user-attachments/assets/03038e73-af1a-4beb-bc3f-45166c20fbce" />
-<img width="1304" height="902" alt="image" src="https://github.com/user-attachments/assets/640897da-3d12-4e25-bd7e-5c2807368743" />
+<img width="1330" height="862" alt="image" src="https://github.com/user-attachments/assets/bbc1e97a-fa76-41ab-9e7a-dc16dc9b2b0d" />
 <img width="1315" height="846" alt="image" src="https://github.com/user-attachments/assets/7e7f420b-6630-4275-bfbe-ab8dd8330728" />
 
 ---
